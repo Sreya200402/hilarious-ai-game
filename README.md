@@ -47,7 +47,7 @@ python "game(import).py"
 # On macOS / Linux
 python3 'game(import).py'
 
-💡 **Tip:** Because your filename has parentheses, always use quotes around it when running on Windows.
+💡 **Tip:** Because filename has parentheses, always use quotes around it when running on Windows.
 
 
 ```
